@@ -22,8 +22,14 @@ Magandang hapon!
   
 <br/>
   
-- 저는 Korean 이고 현재 Web Developer 가 되기위해 hard 하게 study 중입니다!
-- 파인애플 피자를 좋아하는 사람과는 친해지기 어렵습니다.
+
+
+  
+저는 Korean 이고 현재 Web Developer 가 되기위해 hard 하게 study 중입니다!  
+
+
+
+
 <br/>
 <hr/>
 
@@ -51,11 +57,11 @@ Magandang hapon!
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=watchiswatch&&show_icons=true&theme=dark)
 
-
-
-
-
 </div>
+
+
+
+
 
 
 
