@@ -33,7 +33,8 @@ Magandang hapon!
 <br/>
 <hr/>
 
-**contact :** <img src="https://img.shields.io/badge/chchih99@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+#### contact
+  <img src="https://img.shields.io/badge/chchih99@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
 
 
 <hr/>
