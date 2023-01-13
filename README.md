@@ -2,13 +2,19 @@
 
 # 👋👋👋  print(welcome(you))  👋👋👋
   
-안녕하세요, 저는 Korean이고 현재 Developer 지망생입니다.
+안녕하세요! こんにちは! ¡Hola! Buongiorno! Geten Tag! xin chào! नमस्ते! здравствуйте! สวัสดีครับ! Olá! مرحبًا! Merhaba! Magandang hapon!
+  
+<br/>
+  
+  저는 Korean 이고 현재 Web Developer 가 되기위해 hard 하고  study 중입니다!
 
 <br/>
+<hr/>
 
 **contact :** <img src="https://img.shields.io/badge/chchih99@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 
-</div>
+
+<hr/>
 
 
 ## 🔎 SKILLS
@@ -33,7 +39,7 @@
 
 
 
-
+</div>
 
 
 
