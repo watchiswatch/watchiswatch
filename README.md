@@ -25,7 +25,7 @@ Magandang hapon!
 
 
   
-저는 ***Korean*** 이고 현재 ***Global*** 한 ***Web Developer*** 가 되기위해 ***Hard*** 하게 ***Study*** 중입니다!  
+저는 ***Korean*** 이고 현재 ***Web Developer*** 가 되기위해 ***Hard*** 하게 ***Study*** 중입니다!  
 
 
 
