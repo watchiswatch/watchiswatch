@@ -1,10 +1,12 @@
 <div align="center">
 
-### 👋👋👋  print(welcome(you))  👋👋👋
+# 👋👋👋  print(welcome(you))  👋👋👋
+  
+안녕하세요, 저는 Korean이고 현재 Developer 지망생입니다.
 
 <br/>
 
-contact : <img src="https://img.shields.io/badge/chchih99@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+**contact :** <img src="https://img.shields.io/badge/chchih99@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 
 </div>
 
