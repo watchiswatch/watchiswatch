@@ -2,12 +2,28 @@
 
 # 👋👋👋  print(welcome(you))  👋👋👋
   
-안녕하세요! こんにちは! ¡Hola! Buongiorno! Geten Tag! xin chào! नमस्ते! здравствуйте! สวัสดีครับ! Olá! مرحبًا! Merhaba! Magandang hapon!
+안녕하세요!  
+こんにちは!  
+¡Hola!  
+Buongiorno!  
+Geten Tag!  
+xin chào!  
+नमस्ते!  
+здравствуйте!  
+สวัสดีครับ!  
+Olá!  
+Merhaba!  
+Magandang hapon!  
+
+  
+  
+  
+  
   
 <br/>
   
-  저는 Korean 이고 현재 Web Developer 가 되기위해 hard 하고  study 중입니다!
-
+- 저는 Korean 이고 현재 Web Developer 가 되기위해 hard 하게 study 중입니다!
+- 파인애플 피자를 좋아하는 사람과는 친해지기 어렵습니다.
 <br/>
 <hr/>
 
@@ -62,18 +78,6 @@
 
 
 <!--
-**watchiswatch/watchiswatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <img src="{BadgeURLHere}" />
 
