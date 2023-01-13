@@ -44,6 +44,8 @@ Magandang hapon!
 
 #### Languages
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232A" />
+<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=FFE873" />
+  
 
 
 #### Frameworks
