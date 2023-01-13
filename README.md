@@ -25,7 +25,7 @@ Magandang hapon!
 
 
   
-저는 Korean 이고 현재 Web Developer 가 되기위해 hard 하게 study 중입니다!  
+**저는 Korean 이고 현재 Web Developer 가 되기위해 hard 하게 study 중입니다!**  
 
 
 
@@ -33,7 +33,7 @@ Magandang hapon!
 <br/>
 <hr/>
 
-**contact :** <img src="https://img.shields.io/badge/chchih99@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+**contact :** <img src="https://img.shields.io/badge/chchih99@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
 
 
 <hr/>
