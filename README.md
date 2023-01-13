@@ -35,7 +35,9 @@ Magandang hapon!
 
 #### contact
   <img src="https://img.shields.io/badge/chchih99@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
-
+  <a href="https://instagram.com/chicoryh">
+    <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/chicoryh/"style="height : auto; margin-left : 10px;margin-right : 10px;"/>
+</a>
 
 <hr/>
 
