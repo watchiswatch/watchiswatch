@@ -2,18 +2,18 @@
 
 # 👋👋👋  print(welcome(you))  👋👋👋
   
-안녕하세요!  
-こんにちは!  
-¡Hola!  
-Buongiorno!  
-Geten Tag!  
-xin chào!  
-नमस्ते!  
-здравствуйте!  
-สวัสดีครับ!  
-Olá!  
-Merhaba!  
-Magandang hapon!  
+안녕하세요  
+こんにちは  
+¡Hola  
+Buongiorno  
+Geten Tag  
+xin chào  
+नमस्ते  
+здравствуйте  
+สวัสดีครับ  
+Olá  
+Merhaba  
+Magandang hapon
 
   
   
@@ -25,7 +25,7 @@ Magandang hapon!
 
 
   
-저는 ***Korean*** 이고 현재 ***Web Developer*** 가 되기위해 ***Hard*** 하게 ***Study*** 중입니다!  
+***Studying...***  
 
 
 
