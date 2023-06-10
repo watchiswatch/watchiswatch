@@ -1,25 +1,11 @@
 <div align="center">
 
-# 👋👋👋  print(welcome(you))  👋👋👋
+# 👋👋👋👋👋
   
-안녕하세요  
-こんにちは  
-¡Hola  
-Buongiorno  
-Geten Tag  
-xin chào  
-नमस्ते  
-здравствуйте  
-สวัสดีครับ  
-Olá  
-Merhaba  
-Magandang hapon
+안녕하세요!
+개발자의 길을 걷고 싶은 사람입니다.
 
-  
-  
-  
-  
-  
+취미는 운동(헬스, 클라이밍, 풋살 등)입니다~!
 <br/>
   
 
