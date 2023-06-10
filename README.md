@@ -34,7 +34,8 @@
   
 
 
-#### Frameworks
+#### Frameworks | Libraries
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
 
 #### Tools
