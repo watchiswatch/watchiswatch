@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=FFE873" />
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
