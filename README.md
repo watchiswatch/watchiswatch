@@ -1,6 +1,6 @@
 <div align="left">
 
-<b>I'm interested in client environment web development.</b>
+<b>Focused on frontend web development.</b>
 
 <hr/>
   
