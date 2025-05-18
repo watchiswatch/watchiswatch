@@ -1,21 +1,8 @@
-<div align="center">
-<h2>Front-end .</h2>
-<hr/>
+<div align="left">
 
-  <img src="https://img.shields.io/badge/chchih99@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+<b>I'm interested in client environment web development.</b>
 
 <hr/>
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" />
-
-
-<hr/>
-
-## 👷 Stats
-
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=watchiswatch&&show_icons=true&theme=dark)
   
 </div>
 
