@@ -1,6 +1,6 @@
 <div align="left">
 
-<b>Focused on frontend web development.</b>
+<h3>Focused on frontend web development.</h3>
 
 ---
   
