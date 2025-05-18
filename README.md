@@ -2,7 +2,7 @@
 
 <b>Focused on frontend web development.</b>
 
-<hr/>
+---
   
 </div>
 
